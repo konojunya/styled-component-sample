@@ -1,0 +1,20 @@
+{
+  "name": "styled-component-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/styled-component-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "typescript": "^3.4.5"
+  }
+}
